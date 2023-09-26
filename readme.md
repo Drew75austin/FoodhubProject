@@ -14,7 +14,7 @@ The project uses Jupyter Notebook and Python, two popular tools for data analysi
 
 To run this project, you will need to have Jupyter Notebook installed on your computer. You can download it [here](https://jupyter.org/install).
 
-Once you have Jupyter Notebook installed, you can download the `Project1.ipynb` file from this repository and open it in Jupyter Notebook.
+Once you have Jupyter Notebook installed, you can download the `FoodHub.ipynb` file from this repository and open it in Jupyter Notebook.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ You can install these libraries using pip. For example:
 
 ## Running the Analysis
 
-To run the analysis, open the `Project1.ipynb` file in Jupyter Notebook and run each cell in order.
+To run the analysis, open the `FoodHub.ipynb` file in Jupyter Notebook and run each cell in order.
 
 ## Authors
 
